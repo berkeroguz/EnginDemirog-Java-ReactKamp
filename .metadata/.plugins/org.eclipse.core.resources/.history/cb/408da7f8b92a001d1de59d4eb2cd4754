@@ -1,0 +1,11 @@
+package kodlamaio;
+
+public class InstructorManager extends UsersManager {
+	
+	@Override
+	public void add(String name) {
+		
+		System.out.println("Instructor Added = "+ name);
+		
+	}
+}

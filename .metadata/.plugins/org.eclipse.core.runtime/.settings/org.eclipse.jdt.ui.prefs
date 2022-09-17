@@ -1,0 +1,9 @@
+breadcrumb.org.eclipse.jdt.ui.JavaPerspective=true
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="inharitance2.Logger"><rhs name\="inharitance2.DatabaseLogger"/></lhs><lhs name\="polymorphismDemo.BaseLogger"><rhs name\="polymorphismDemo.EmailLogger"/></lhs><lhs name\="interfaces.Logger"><rhs name\="interfaces.DatabaseLogger"/></lhs><lhs name\="abstractDemo.BaseDatabaseMaganer"><rhs name\="abstractDemo.SqlDatabaseManager"/><rhs name\="abstractDemo.Mysql"/></lhs><lhs name\="ICustomer"><rhs name\="NeroCustomerManager"/><rhs name\="StarbucksCustomerManager"/></lhs><lhs name\="BaseCustomerManager"><rhs name\="NeroCustomerManager"/><rhs name\="StarbucksCustomerManager"/></lhs><lhs name\="Customer"><rhs name\="Customer"/></lhs><lhs name\="nLayeredDemo.business.abstracts.ProductService"><rhs name\="nLayeredDemo.business.concretes.ProductManager"/></lhs><lhs name\="nLayeredDemo.dataAccess.abstracts.ProductDao"><rhs name\="nLayeredDemo.dataAccess.concretes.HibernateProductDao"/></lhs><lhs name\="nLayeredDemo.core.LoggerService"><rhs name\="nLayeredDemo.core.JLoggerManagerAdapter"/></lhs></history>
+content_assist_number_of_computers=17
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

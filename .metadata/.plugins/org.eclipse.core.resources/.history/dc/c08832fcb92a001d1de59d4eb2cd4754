@@ -1,0 +1,10 @@
+package kodlamaio;
+
+public class StudentsManager extends UsersManager {
+	@Override
+	public void add() {
+		System.out.println("Student added = ");
+		
+	}
+
+}

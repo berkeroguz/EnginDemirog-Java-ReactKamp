@@ -1,0 +1,6 @@
+package nLayeredDemo.dataAccess.concretes;
+
+public class ProductDao {
+	//Veriye eirişim kodlarını buraya yazıcaz.
+
+}

@@ -1,0 +1,19 @@
+package kodlamaio;
+
+public class KodlamaUI {
+	private UsersManager user;
+	privatete String newname;
+	
+	public KodlamaUI(UsersManager user, String name){
+		this.user = user;
+		
+	}
+	
+	public void Add() {
+		
+		System.out.println("User added.");
+		user.add(null);
+		
+	}
+
+}

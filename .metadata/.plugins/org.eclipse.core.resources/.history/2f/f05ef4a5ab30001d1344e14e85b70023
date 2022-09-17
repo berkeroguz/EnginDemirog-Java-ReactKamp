@@ -1,0 +1,6 @@
+package nLayeredDemo.jLogger;
+
+public interface JLoggerDao {
+	void log(String message);
+
+}

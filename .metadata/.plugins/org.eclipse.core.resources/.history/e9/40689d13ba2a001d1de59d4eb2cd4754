@@ -1,0 +1,13 @@
+package kodlamaio;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		UsersManager usersManager = new UsersManager();
+		
+		usersManager.add(new StudentsManager(),"Berker");
+		
+	}
+
+}

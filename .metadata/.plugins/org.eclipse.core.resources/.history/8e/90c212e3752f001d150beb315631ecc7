@@ -1,0 +1,27 @@
+package asalSayilarDongu;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		for (int i=10;i<100;i++) {
+			
+			int bol=0;
+			for(bol=1;bol<i;bol++)
+			{
+				int sonuc = i %bol;
+				if (sonuc == 0 && bol==i)
+				{
+					System.out.println("Asal sayılardan biri =" + i);
+					break;
+				}
+				else {
+					System.out.println("burası calıstı");
+				}
+			}
+			
+		}
+
+	}
+
+}

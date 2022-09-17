@@ -1,0 +1,32 @@
+package asalSayilarDongu;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		for (int i=10;i<=100;i++) {
+			
+			int kontrol = 0;
+			for(int bol=1;bol<i;bol++)
+			{
+				int sonuc = i%bol;
+				if (sonuc == 0)
+				{
+					kontrol = 1;
+					break;
+				}
+			
+					
+			}
+			if (kontrol ==0)
+			{
+				System.out.println("Asal Sayılardan biri = "+i);
+			}
+			
+		}
+
+	}
+
+}
+
+  
