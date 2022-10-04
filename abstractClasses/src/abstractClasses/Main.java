@@ -6,7 +6,7 @@ public class Main {
 		WomanGameCalculator woman = new WomanGameCalculator();
 		
 		GameCalculator gameCalculator = new KidsGameCalculator();
-		gameCalculator.hesapla();
+		gameCalculator.hesapla();   
 
 	}
 
